@@ -13,9 +13,7 @@ theme: "ed."
 plugins:
   - jekyll-feed
 
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - Gemfile
