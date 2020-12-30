@@ -1,0 +1,13 @@
+<ul>
+    {% for post in include.pages %}
+      <li>
+      <a href="{{ post.external_url }}">{{ post.title }} <small>({{post.date | date: "%d-%m-%Y" }})</small></a> <a href="/assets/{{post.archive_type}}/{{post.archive_url}}"><img src="/assets/images/{{post.archive_type}}.svg" style="width:1em; display: inline; margin: 0 0 0rem;"/></a>
+      {% if page.lang == "en" and post.lang == "pl" %}
+        {% include flag_pl.html %}
+      {% endif %}
+      {% if page.lang == "pl" and post.lang == "en" %}
+        {% include flag_en.html %}
+      {% endif %}
+    </li><br/>
+    {% endfor %}
+  </ul>

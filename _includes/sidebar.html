@@ -13,7 +13,7 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-    {% assign pages_list = site.pages | sort:"url" %}
+    {% assign pages_list = site.pages | sort:"order" %}
     {% for node in pages_list %}
       {% if node.title != null and node.url != "/404.html" %}
         {% if node.layout == "page" %}
@@ -32,13 +32,13 @@
     <script src="https://hypothes.is/embed.js" async></script>
   -->
 
-    
   </nav>
 
   <div class="sidebar-item">
     <p>
       Maintained and hosted on <a href="https://github.com/jakublipinski/jakublipinski.com" target="_blank">GitHub</a>. 
       Built with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://minicomp.github.io/ed/">Ed.</a>
+      Icon made by <a href="https://www.flaticon.com/authors/dimitry-miroliubov" title="Dimitry Miroliubov">Dimitry Miroliubov</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
     </p>
   </div>
 </aside>

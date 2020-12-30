@@ -11,7 +11,7 @@ Welcome to my personal website. Don't expect too much. I just gather and link to
 
 My name is Jakub Lipiński. I'm a software engineer turned entrepreneur. I live in Poland.
 
-I currently conduct research in the field of bioinformatics.
+I currently conduct [research](research) in the field of bioinformatics.
 
 I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank and I occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. Among others, we built a [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
 
@@ -22,6 +22,7 @@ I'm a family guy. I have 4 children and 1 wife. I'm a grandson of [Wacław Lipi�
 You can connect with my on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 
 ---
+In the past:
 
 I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits. It failed.
 
