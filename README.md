@@ -6,6 +6,8 @@ jakublipinski.com website
 ```
 gem install --user-install bundler
 sudo gem install -n /usr/local/bin/ jekyll
+bundle config set --local path 'vendor/bundle'
+bundle install
 ```
 
 # Run

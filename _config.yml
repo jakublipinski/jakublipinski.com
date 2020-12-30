@@ -9,8 +9,8 @@ github_username:  jakublipinski
 
 markdown: kramdown
 
-#theme: "ed."
-remote_theme: minicomp/ed
+theme: "ed."
+#remote_theme: minicomp/ed
 
 plugins:
   - jekyll-feed
@@ -19,3 +19,7 @@ exclude:
    - .sass-cache/
    - .jekyll-cache/
    - Gemfile
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
