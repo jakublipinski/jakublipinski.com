@@ -4,6 +4,6 @@ ref: kj
 title: Klub Jagielloński
 ---
 
-Jestem członkiem i przewodniczącym Rady Klubu Jagiellońskiego. Czasem publikuję na łamach portalu Klubu:
+Jestem przewodniczącym Rady i członkiem Klubu Jagiellońskiego. Czasem publikuję na łamach portalu Klubu:
 
 {% include posts.html pages=site.categories.kj %}
