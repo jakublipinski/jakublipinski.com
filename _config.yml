@@ -1,9 +1,9 @@
 title: Jakub Lipiński ― homepage
 email: jakub.lipinski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jakub Lipiński ― software engineer, enterpreneur, bioinformatician, father, husband.
+  Jakub Lipiński ― software engineer, entrepreneur, bioinformatician, father, husband.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jakublipinski.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jakublipinski
 github_username:  jakublipinski
 
