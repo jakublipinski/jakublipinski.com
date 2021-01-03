@@ -9,7 +9,9 @@ permalink: /en/
 
 Welcome to my personal website. Don't expect too much. I just gather and link to some external content related to my work and thoughts, before they will all be lost in time[^fn1]. Enjoy.
 
-My name is Jakub Lipiński. I'm a software engineer turned entrepreneur. I live in Poland.
+My name is Jakub Lipiński. I'm a software engineer turned entrepreneur and investor. I live in Poland.
+
+## Present
 
 I currently conduct [research](research) in the field of bioinformatics.
 
@@ -21,20 +23,18 @@ I'm a family guy. I have 4 children and 1 wife. I'm a grandson of [Wacław Lipi�
 
 You can connect with my on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 
----
-In the past:
+## Past
 
-I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits. It failed.
+I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits. It flopped.
 
-I used to work on novel approach to [nuclear fusion](ugc) with an independent lab in California. It failed.
+I used to work on novel approach to [nuclear fusion](ugc) with an independent lab in California. It flopped.
 
 I co-founded [Apphance](apphance) which was acquired by Applause (then uTest) in 2012.
 
 I graduated from [AGH University of Science and Technology](https://www.agh.edu.pl/) (MSc in computer science) and from [IESE](https://www.iese.edu/) (Advanced Management Program).
 
 
-I was named [The New Europe 100 — changemaker in central and eastern Europe (2016)](https://www.ft.com/content/ece06f66-90a7-11e6-a72e-b428cb934b78). I was finalist of the [EY Entrepreneur of the Year 2012 Poland{% include flag_pl.html %}](https://przedsiebiorcaroku.pl/poprzednie-edycje/?edition=10) and a [finalist of the Polish programming contest 1998{% include flag_pl.html %}](https://oi.edu.pl/l/53/).
-
+I was named [The New Europe 100 — changemaker in central and eastern Europe (2016)](https://www.ft.com/content/ece06f66-90a7-11e6-a72e-b428cb934b78)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/New-Europe-100-changemakers.pdf). I was finalist of the [EY Entrepreneur of the Year 2012 Poland{% include flag_pl.html %}](https://przedsiebiorcaroku.pl/poprzednie-edycje/?edition=10)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/ey-przedsiebiorca-roku.pdf) and a [finalist of the Polish programming contest 1998{% include flag_pl.html %}](https://oi.edu.pl/l/53/)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/olimpiada-informatyczna-1998.pdf).
 
 ---
 
