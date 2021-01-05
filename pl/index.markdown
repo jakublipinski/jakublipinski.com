@@ -38,4 +38,4 @@ Zostałem uhonorowany tytułem [The New Europe 100 — changemaker in central an
 
 ---
 
-[^fn1]: [https://pl.wikiquote.org/wiki/%C5%81owca_android%C3%B3w](https://pl.wikiquote.org/wiki/%C5%81owca_android%C3%B3w)
+[^fn1]: [https://pl.wikiquote.org/wiki/Łowca_androidów](https://pl.wikiquote.org/wiki/%C5%81owca_android%C3%B3w)
