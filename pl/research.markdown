@@ -2,7 +2,7 @@
 layout: page
 lang: pl
 title: Badania i publikacje
-order: 300
+order: 100
 ---
 
 Cheynna Crowley, Yuchen Yang, Yunjiang Qiu, Benxia Hu, Armen Abnousi, __Jakub Lipiński__, Dariusz Plewczyński, Di Wu, Hyejung Won, Bing Ren, Ming Hu, Yun Li,

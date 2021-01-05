@@ -1,7 +1,9 @@
 ---
 layout: page
 ref: kj
+lang: pl
 title: Klub Jagielloński
+order: 200
 ---
 
 Jestem przewodniczącym Rady i członkiem Klubu Jagiellońskiego. Czasem publikuję na łamach portalu Klubu:

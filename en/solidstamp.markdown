@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-order: 200
+order: 300
 title: SolidStamp
 ---
 SolidStamp (2017-2018) was my attempt to enter the blockchain startup world. The service was supposed to connect smart contract users and security auditors to ensure the safety of their ethers and tokens. It maintained an on-chain database of smart contract audits so you could be sure you were investing your funds securely. SolidStamp allowed to hire top-notch security specialists to audit the contract you plan to use to validate their authenticity and security.

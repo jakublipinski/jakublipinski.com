@@ -2,7 +2,7 @@
 layout: page
 lang: pl
 title: Rynek przewidywań
-order: 300
+order: 600
 ---
 W latach 2004-2008 współtwożyłem pierwszy w Polsce rynek przewidywań społeczno politycznych.
 
