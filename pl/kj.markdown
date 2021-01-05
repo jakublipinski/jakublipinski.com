@@ -1,6 +1,5 @@
 ---
 layout: page
-ref: kj
 lang: pl
 title: Klub Jagielloński
 order: 200

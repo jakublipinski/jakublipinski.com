@@ -3,7 +3,6 @@ layout: page
 title: Polidea
 lang: en
 order: 200
-ref: polidea
 ---
 Polidea was founded in 2009 as a software development studio delivering digital products. It has gathered a team of experienced software engineers, designers, testers and project managers who are passionate about what they do. Working at the intersection of business and technology Polidea delivers end-to-end digital solutions cooperating with clients from all around the world in the areas of healthcare, fintech, consumer electronics and more!
 

@@ -3,7 +3,6 @@ layout: page
 title: Polidea
 lang: pl
 order: 300
-ref: polidea
 ---
 Polidea została założona w 2009 jako agencja programistyczna dostarczająca produkty cyfrowe. Pracują w niej doświadczeni programiści, testerzy, projektanci, testerzy i menedżerowie dla których praca jest pasją. Działając na styku biznesu i technologii, Polidea dostarcza kompleksowe rozwiązania cyfrowe współpracując z klientami z całego świata w obszarach opieki zdrowotnej, fintech i elektroniki użytkowej.
 
