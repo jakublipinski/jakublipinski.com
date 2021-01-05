@@ -13,7 +13,7 @@ Miałem zaszczyt służyć jako prezes Polidei przez pierwsze 7 lat jej istnieni
 
 Poniżej zebrane zostały artykuły, wywiady i przemyślenia dotyczące Polidei:
 
-{% include posts.html pages=site.categories.polidea %}
+{% include posts.html pages=site.tags.polidea %}
 
 ## Ewolucja strony www:
 

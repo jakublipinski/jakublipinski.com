@@ -9,7 +9,7 @@ W latach 2004-2008 współtwożyłem pierwszy w Polsce rynek przewidywań społe
 ## Odnośniki medialne
 Napisano o nas kilka artykułów
 
-{% include posts.html pages=site.categories.pm %}
+{% include posts.html pages=site.tags.pm %}
 
 ## A tak wyglądała nasza strona:
 ### 2007:

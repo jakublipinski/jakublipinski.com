@@ -13,7 +13,7 @@ I was privileged to serve as Polidea CEO for its first 7 years. Currently I'm th
 
 You can find some media stories and my thoughts related to Polidea below:
 
-{% include posts.html pages=site.categories.polidea %}
+{% include posts.html pages=site.tags.polidea %}
 
 ## Evolution of the Polidea website:
 

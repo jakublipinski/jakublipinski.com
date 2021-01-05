@@ -9,7 +9,7 @@ Apphance był wewnętrznym narzędziem, które zbudowaliśmy w [Polidei](polidea
 ## Odnośniki medialne
 Transakcja była opisywana w polskich i zagranicznych mediach:
 
-{% include posts.html pages=site.categories.apphance %}
+{% include posts.html pages=site.tags.apphance %}
 
 ## A tak wyglądała strona Apphance w 2011
 <br/>

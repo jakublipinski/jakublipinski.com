@@ -9,7 +9,7 @@ Apphance started as an internal tool at [Polidea](polidea), a service for instan
 ## Media stories
 You can find some media stories related to Apphance acquisition below:
 
-{% include posts.html pages=site.categories.apphance %}
+{% include posts.html pages=site.tags.apphance %}
 
 ## This is what Apphance website looked like in 2011:
 <br/>
