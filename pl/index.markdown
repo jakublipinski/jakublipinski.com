@@ -18,7 +18,7 @@ Jestem przewodniczącym Rady i członkiem think-tanku [Klub Jagielloński](https
 
 Jestem współzałożycielem firmy [Polidea](polidea). Prowadziłem ją przez pierwsze siedem szalonych lat, a teraz pomagam jako Przewodniczący Rady Nadzorczej.
 
-Jestem typem rodzinnym. Mam czworo dzieci i jedną żonę. Jestem wnukiem [Wacława Lipińskiego](https://pl.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski_(polski_historyk_i_oficer)) i prowadzę [stronę mu poświęconą](https://www.waclawlipinski.pl)
+Jestem typem rodzinnym. Mam żonę i czworo dzieci. Jestem wnukiem [Wacława Lipińskiego](https://pl.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski_(polski_historyk_i_oficer)) i prowadzę [poświęconą mu stronę](https://www.waclawlipinski.pl).
 
 Znajdziesz mnie na [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) i [GitHub](https://github.com/jakublipinski).
 
