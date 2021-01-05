@@ -4,7 +4,7 @@ title: Polidea
 lang: en
 order: 200
 ---
-Polidea was founded in 2009 as a software development studio delivering digital products. It has gathered a team of experienced software engineers, designers, testers and project managers who are passionate about what they do. Working at the intersection of business and technology Polidea delivers end-to-end digital solutions cooperating with clients from all around the world in the areas of healthcare, fintech, consumer electronics and more!
+I co-founded Polidea in 2009 as a development studio delivering digital products and cloud services.  Based in Poland, it is formed by a team of experienced software engineers, testers and project managers. Working at the intersection of business and technology, Polidea delivers end-to-end digital solutions cooperating with clients in the areas of healthcare, fintech, consumer electronics, and more. Through mobile apps, embedded firmware and cloud solutions, Polidea creates products that improve people’s lives and businesses. Side by side with Utilo—Polidea’s design studio, the team ensures a project’s success by focusing on the users as well as the business context, and technical opportunities.
 
 I was privileged to serve as Polidea CEO for its first 7 years. Currently I'm the chairman of the supervisory board.
 
