@@ -1,16 +1,16 @@
 title: Jakub Lipiński ― homepage
 email: jakub.lipinski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jakub Lipiński ― software engineer, entrepreneur, bioinformatician, father, husband.
+  Jakub Lipiński ― software engineer, entrepreneur, investor, bioinformatician, husband, father.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.jakublipinski.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jakublipinski.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jakublipinski
 github_username:  jakublipinski
 
 markdown: kramdown
 
 theme: "ed."
-#remote_theme: minicomp/ed
+remote_theme: minicomp/ed
 
 plugins:
   - jekyll-feed
