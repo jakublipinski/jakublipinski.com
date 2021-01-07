@@ -23,6 +23,13 @@
 
   <div class="sidebar-item">
     <p>
+      {% if page.lang == "pl" %}
+        <a href="/en/">Switch to English 🇬🇧</a>
+      {% else %}
+        <a href="/pl/">Strona po polsku 🇵🇱</a>
+      {% endif %}
+    </p>
+    <p>
       Hosted and Forkable at <a href="https://github.com/jakublipinski/jakublipinski.com/blob/main/{{page.path}}" target="_blank">GitHub</a>. 
     </p>
     <p></p>

@@ -15,4 +15,4 @@ You can find some media stories related to Apphance acquisition below:
 
 ### This is what Apphance website looked like in 2011:
 <br/>
-![Apphance website](/assets/images/Apphance_website.jpg)
+![Apphance website](/assets/images/apphance_website.jpg)

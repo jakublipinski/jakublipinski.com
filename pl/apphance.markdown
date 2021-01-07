@@ -15,4 +15,4 @@ Transakcja była opisywana w polskich i zagranicznych mediach:
 
 ### A tak wyglądała strona Apphance w 2011
 <br/>
-![Apphance website](/assets/images/Apphance_website.jpg)
+![Apphance website](/assets/images/apphance_website.jpg)
