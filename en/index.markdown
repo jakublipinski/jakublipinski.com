@@ -24,9 +24,9 @@ You can connect me on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [T
 
 ## Past
 
-I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits. It flopped.
+I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits.
 
-I used to work on novel approach to [nuclear fusion](ugc) with an independent lab in California. It flopped.
+I used to work on novel approach to [nuclear fusion](ugc) with an independent lab in California.
 
 I co-founded [Apphance](apphance) which was acquired by Applause (then uTest) in 2012.
 

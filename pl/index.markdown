@@ -24,9 +24,9 @@ Znajdziesz mnie na [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twit
 
 ## Kiedyś
 
-Współtworzyłem startup [SolidStamp{% include flag_en.html %}](/en/solidstamp) - rejestr audytów _smart contract_'ów Ethereum. Nie powiódł się.
+Współtworzyłem startup [SolidStamp{% include flag_en.html %}](/en/solidstamp) - rejestr audytów _smart contract_'ów Ethereum.
 
-Pracowałem nad oryginalną metodą pozyskiwania czystej energi jądrowej z [niezależnym laboratorium w Kalifornii](ugc). Nie powiodło się.
+Pracowałem nad oryginalną metodą pozyskiwania czystej energi jądrowej z [niezależnym laboratorium w Kalifornii](ugc).
 
 Współtworzyłem firmę [Apphance](apphance), która została kupiona przez Applause (wtedy uTest) w 2012.
 
