@@ -5,6 +5,6 @@ title: Klub Jagielloński
 order: 200
 ---
 
-Jestem przewodniczącym Rady i członkiem Klubu Jagiellońskiego. Czasem publikuję na łamach portalu Klubu:
+Jestem przewodniczącym Rady i członkiem Klubu Jagiellońskiego. Czasem publikuję na łamach portalu Klubu lub wypowiadam się dla innych mediów:
 
 {% include posts.html pages=site.tags.kj %}

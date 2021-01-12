@@ -13,7 +13,7 @@ markdown: kramdown
 remote_theme: minicomp/ed
 
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
 exclude:
    - .sass-cache/
