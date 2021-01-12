@@ -3,6 +3,7 @@ layout: page
 lang: en
 title: Nuclear Energy Startup
 order: 500
+permalink: /en/ugc
 ---
 I invested into a clean energy startup in California. The founders devised an alternative gravity theory which predicted some nuclear reactions in low energy. Unfortunately, we couldn't confirm the predictions experimentally.
 

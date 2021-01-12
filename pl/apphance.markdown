@@ -3,6 +3,7 @@ layout: page
 lang: pl
 title: Apphance
 order: 400
+permalink: /pl/apphance
 ---
 Apphance był wewnętrznym narzędziem, które zbudowaliśmy w [Polidei](polidea), do szybkiego i dokładnego testowania aplikacji mobilnych. Wydzieliliśmy je z firmy w 2011 aby inni również mogli z niego korzystać. Było wykorzystywane przez Facebook'a podczas ich przejścia z firmy webowej na mobilną w 2012. 
 

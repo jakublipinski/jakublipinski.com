@@ -3,6 +3,7 @@ layout: page
 title: Polidea
 lang: pl
 order: 300
+permalink: /pl/polidea
 ---
 Polideę założyliśmy w 2009 jako studio deweloperskie dostarczające produkty cyfrowe i usługi w chmurze. Pracuje w niej zespół doświadczonych inżynierów oprogramowania, testerów i kierowników projektów. Działając na styku biznesu i technologii, Polidea dostarcza kompleksowe rozwiązania cyfrowe, współpracując z klientami z całego świata w obszarach opieki zdrowotnej, fintech, elektroniki użytkowej. Dzięki aplikacjom mobilnym, wbudowanemu oprogramowaniu i rozwiązaniom chmurowym Polidea tworzy produkty, które poprawiają jakość życia ludzi i firm. 
 

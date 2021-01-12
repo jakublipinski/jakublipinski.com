@@ -12,3 +12,5 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "kramdown-parser-gfm"
+
+gem "jekyll-sitemap"

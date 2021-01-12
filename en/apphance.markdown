@@ -3,6 +3,7 @@ layout: page
 lang: en
 title: Apphance
 order: 400
+permalink: /en/apphance
 ---
 Apphance started as an internal tool at [Polidea](polidea), a service for instant, accurate and complete testing of mobile applications. It was spined-off in 2011 so that other companies could benefit from it. It was licensed and used by Facebook during their transition from web to mobile-first in 2012. 
 

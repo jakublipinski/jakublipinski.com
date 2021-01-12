@@ -13,7 +13,14 @@ markdown: kramdown
 remote_theme: minicomp/ed
 
 plugins:
-#  - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path:            "_posts/**/*.markdown"
+    values:
+      sitemap:         false
 
 exclude:
    - .sass-cache/

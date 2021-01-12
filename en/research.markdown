@@ -3,6 +3,7 @@ layout: page
 lang: en
 title: Research & Papers
 order: 100
+permalink: /en/research
 ---
 
 Cheynna Crowley, Yuchen Yang, Yunjiang Qiu, Benxia Hu, Armen Abnousi, __Jakub Lipiński__, Dariusz Plewczyński, Di Wu, Hyejung Won, Bing Ren, Ming Hu, Yun Li,
