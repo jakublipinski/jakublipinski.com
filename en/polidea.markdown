@@ -7,7 +7,7 @@ permalink: /en/polidea
 ---
 I co-founded Polidea in 2009 as a development studio delivering digital products and cloud services.  Based in Poland, it is formed by a team of experienced software engineers, testers and project managers. Working at the intersection of business and technology, Polidea delivers end-to-end digital solutions cooperating with clients in the areas of healthcare, fintech, consumer electronics, and more. Through mobile apps, embedded firmware and cloud solutions, Polidea creates products that improve people’s lives and businesses. Side by side with Utilo—Polidea’s design studio, the team ensures a project’s success by focusing on the users as well as the business context, and technical opportunities.
 
-I was privileged to serve as Polidea CEO for its first 7 years. Currently I'm the chairman of the supervisory board.
+I was privileged to serve as Polidea CEO for its first 7 years. Later I was the chairman of the supervisory board. Polidea was acquired by [Snowflake](https://www.snowflake.com) in Feb 2021.
 
 ## Stories
 

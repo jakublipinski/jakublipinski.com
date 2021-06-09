@@ -16,13 +16,12 @@ I currently conduct [research](research) in the field of bioinformatics.
 
 I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank and I occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. Among others, we built a [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
 
-I co-founded [Polidea](polidea) and run it for its first crazy 7 years. I'm non-executive chairman of the supervisory board now.
-
 I'm a family guy. I have a wife and 4 children. I'm a grandson of [Wacław Lipiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski) and I maintain [the website devoted to his commemoration{% include flag_pl.html %}](https://www.waclawlipinski.pl).
 
 You can connect me on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 
 ## Past
+I co-founded [Polidea](polidea) and run it for its first crazy 7 years. I was non-executive chairman of the supervisory board after that. Snowflake acquired Polidea in Feb 2021.
 
 I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits.
 
