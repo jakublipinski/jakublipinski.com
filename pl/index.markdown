@@ -8,7 +8,7 @@ permalink: /pl/
 
 Witaj na mojej osobistej stronie internetowej. Nie spodziewaj się zbyt wiele. Zamieszczam tu odnośniki do zewnętrznych treści związanych ze mną, moją pracą i przemyśleniami, zanim zostaną bezpowrotnie utracone w czasie[^fn1]. Miłego zwiedzania.
 
-Nazywam się Jakub Lipiński. Jestem programistą, który stał się przedsiębiorcą i inwestorem. Mieszkam w Polsce.
+Nazywam się Jakub Lipiński. Jestem programistą, który stał się przedsiębiorcą, inwestorem i mentorem biznesowym. Mieszkam w Polsce.
 
 ## Teraz
 
