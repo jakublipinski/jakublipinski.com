@@ -8,7 +8,7 @@ permalink: /en/
 
 Welcome to my personal website. Don't expect too much. I just gather and link to some external content related to my work and thoughts, before they will all be lost in time[^fn1]. Enjoy.
 
-My name is Jakub Lipiński. I'm a software engineer turned entrepreneur and investor. I live in Poland.
+My name is Jakub Lipiński. I'm a software engineer turned entrepreneur, investor and business mentor. I live in Poland.
 
 ## Present
 
