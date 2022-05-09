@@ -12,7 +12,9 @@ My name is Jakub Lipiński. I'm a software engineer turned entrepreneur, investo
 
 ## Present
 
-I currently conduct [research](research) in the field of bioinformatics.
+I help entrepreneurs in building companies and solving their daily challenges.
+
+I rennovate an [old farmhouse at Warmia](https://farmia.org).
 
 I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank and I occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. Among others, we built a [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
 
@@ -21,6 +23,8 @@ I'm a family guy. I have a wife and 4 children. I'm a grandson of [Wacław Lipi�
 You can connect me on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 
 ## Past
+I conducted some [research](research) in the field of bioinformatics.
+
 I co-founded [Polidea](polidea) and run it for its first crazy 7 years. I was non-executive chairman of the supervisory board after that. Snowflake acquired Polidea in Feb 2021.
 
 I co-founded [SolidStamp](solidstamp) - an on-chain registry of Ethereum smart contract audits.
