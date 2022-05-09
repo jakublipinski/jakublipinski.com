@@ -12,7 +12,9 @@ Nazywam się Jakub Lipiński. Jestem programistą, który stał się przedsiębi
 
 ## Teraz
 
-Aktualnie prowadzę [badania](research) w dziedzinie bioinformatyki.
+Pomagam przedsiębiorcom w budowaniu firm i rozwiązywaniu ich codziennych wyzwań. 
+
+Remontuję [siedlisko na Warmii](https://farmia.org).
 
 Jestem przewodniczącym Rady i członkiem think-tanku [Klub Jagielloński](https://klubjagiellonski.pl) i czasem [publikuję na jego łamach](/pl/kj). Byłem równie pomysłodawcą [aplikacji Pola](https://www.pola-app.pl).
 
@@ -21,6 +23,9 @@ Jestem typem rodzinnym. Mam żonę i czworo dzieci. Jestem wnukiem [Wacława Lip
 Znajdziesz mnie na [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) i [GitHub](https://github.com/jakublipinski).
 
 ## Kiedyś
+
+Prowadziłem [badania](research) w dziedzinie bioinformatyki.
+
 Współtworzyłem firmę [Polidea](polidea). Prowadziłem ją przez pierwsze siedem szalonych lat, a później pomagam jako Przewodniczący Rady Nadzorczej. Snowflake przejął Polideę w lutym 2021.
 
 Współtworzyłem startup [SolidStamp{% include flag_en.html %}](/en/solidstamp) - rejestr audytów _smart contract_'ów Ethereum.
