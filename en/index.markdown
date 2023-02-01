@@ -18,7 +18,7 @@ I rennovate an [old farmhouse at Warmia](https://farmia.org).
 
 I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank and I occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. Among others, we built a [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
 
-I'm a family guy. I have a wife and 4 children. I'm a grandson of [Wacław Lipiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski) and I maintain [the website devoted to his commemoration{% include flag_pl.html %}](https://www.waclawlipinski.pl).
+I'm a family guy. I have a wife and 5 children. I'm a grandson of [Wacław Lipiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski) and I maintain [the website devoted to his commemoration{% include flag_pl.html %}](https://www.waclawlipinski.pl).
 
 You can connect me on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 

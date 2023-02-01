@@ -18,7 +18,7 @@ Remontuję [siedlisko na Warmii](https://farmia.org).
 
 Jestem przewodniczącym Rady i członkiem think-tanku [Klub Jagielloński](https://klubjagiellonski.pl) i czasem [publikuję na jego łamach](/pl/kj). Byłem równie pomysłodawcą [aplikacji Pola](https://www.pola-app.pl).
 
-Jestem typem rodzinnym. Mam żonę i czworo dzieci. Jestem wnukiem [Wacława Lipińskiego](https://pl.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski_(polski_historyk_i_oficer)) i prowadzę [poświęconą mu stronę](https://www.waclawlipinski.pl).
+Jestem typem rodzinnym. Mam żonę i pięcioro dzieci. Jestem wnukiem [Wacława Lipińskiego](https://pl.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski_(polski_historyk_i_oficer)) i prowadzę [poświęconą mu stronę](https://www.waclawlipinski.pl).
 
 Znajdziesz mnie na [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) i [GitHub](https://github.com/jakublipinski).
 
