@@ -6,19 +6,23 @@ permalink: /en/
 ---
 ![Jakub Lipiński](/assets/images/Jakub_Lipinski_profile_square_1024.jpg){: style="height:150px; width:150px; display: block; margin-left:auto; margin-right: auto; border-radius:50%"}
 
-Welcome to my personal website. Don't expect too much. I just gather and link to some external content related to my work and thoughts, before they will all be lost in time[^fn1]. Enjoy.
+Welcome to my personal website. Don't expect too much, I just collect and link to some external content related to my work and thoughts, before they will all be lost in time[^fn1]. Enjoy.
 
-My name is Jakub Lipiński. I'm a software engineer turned entrepreneur, investor and business mentor. I live in Poland.
+My name is Jakub Lipiński. I'm a software engineer turned entrepreneur, investor, and business mentor. I live in Poland.
 
 ## Present
 
-I help entrepreneurs in building companies and solving their daily challenges.
+I mentor entrepreneurs in building companies and assisting them in overcoming daily challenges.
 
-I rennovate an [old farmhouse at Warmia](https://farmia.org).
+I'm a co-founder of [Inoko Vision](https://inoko.vision).
 
-I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank and I occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. Among others, we built a [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
+I'm a Venture Advisor at [Expeditions Fund](https://expeditionsfund.com/).
 
-I'm a family guy. I have a wife and 5 children. I'm a grandson of [Wacław Lipiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski) and I maintain [the website devoted to his commemoration{% include flag_pl.html %}](https://www.waclawlipinski.pl).
+I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank and occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. One of our projects includes building the [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
+
+I'm a family man with a wife and 5 children. I'm a grandson of [Wacław Lipiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski) and I maintain [a website dedicated to his memory{% include flag_pl.html %}](https://www.waclawlipinski.pl).
+
+In my free time, I am renovating an [old farmhouse at Warmia](https://farmia.org).
 
 You can connect me on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 

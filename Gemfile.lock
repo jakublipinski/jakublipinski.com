@@ -63,6 +63,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  x86_64-darwin-22
 
 DEPENDENCIES
   ed. (~> 1.3.0)
@@ -74,4 +75,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.2.3
+   2.4.6
