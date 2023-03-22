@@ -1,0 +1,18 @@
+<form action="https://submit-form.com/mlE9CXGO">
+    <label for="name">{% if page.lang == "en" %}Name{% else %}Imię{% endif %}</label>
+    <input type="text" id="name" name="name" placeholder="{% if page.lang == "en" %}Your Name{% else %}Twoje Imię{% endif %}" required="" />
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="{% if page.lang == "en" %}Your Email Address{% else %}Twój adres email{% endif %}" required="" />
+    <label for="message">{% if page.lang == "en" %}Message{% else %}Wiadomość{% endif %}</label>
+    <textarea style="height: 200px"
+      id="message"
+      name="message"
+      placeholder="{% if page.lang == "en" %}Hi, I'd like to learn more about your mentoring services{% else %}Cześć, chciałabym dowiedzieć się więcej o Twoim mentoringu{% endif %}"
+      required=""
+    ></textarea>
+    <label></label>
+    <div class="g-recaptcha" data-sitekey="6LcjGQwlAAAAAKHPntLWvvhM0qr4fiDpCZ9ZnblK"></div>
+    <label></label>
+    <button style="background:#841212;color:white;border:0;padding: 13px;border-radius: 5px;" type="submit">{% if page.lang == "en" %}Send{% else %}Wyślij{% endif %}</button>
+  </form>
+  

@@ -1,0 +1,15 @@
+/* styles for contact form*/
+form {
+    box-sizing: border-box;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 90%);
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 2rem;
+}    
+input, textarea{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 1em;
+}

@@ -12,7 +12,7 @@ My name is Jakub Lipiński. I'm a software engineer turned entrepreneur, investo
 
 ## Present
 
-I mentor entrepreneurs in building companies and assisting them in overcoming daily challenges.
+I [mentor entrepreneurs](mentoring) in building companies and assisting them in overcoming daily challenges.
 
 I'm a co-founder of [Inoko Vision](https://inoko.vision).
 

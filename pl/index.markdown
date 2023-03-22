@@ -12,7 +12,7 @@ Nazywam się Jakub Lipiński. Jestem programistą, który stał się przedsiębi
 
 ## Teraz
 
-Świadczę usługi mentoringu dla przedsiębiorców budujących firmy i pomagam w rozwiązywaniu ich codziennych wyzwań. 
+[Świadczę usługi mentoringu](mentoring) dla przedsiębiorców budujących firmy i pomagam w rozwiązywaniu ich codziennych wyzwań. 
 
 Jestem współzałożycielem [Inoko Vision](https://inoko.vision).
 
