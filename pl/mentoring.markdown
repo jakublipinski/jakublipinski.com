@@ -8,7 +8,7 @@ permalink: /pl/mentoring
 
 Nie było dla mnie bardziej intensywnego czasu niż ten kiedy prowadziłem firmę (a przez pewien czas nawet dwie). Każdy dzień przynosił nowe wyzwania: wartościowy pracownik dostawał ofertę od konkurencji, klient narzekał na jakość naszych usług, struktura firmy przestawała pasować do bieżących wyzwań. Istny rollercoster. Każdego dnia pracowałęm ciężko starając się wymyślić nowe rozwiązania. Nie mając doświadczenia biznesowego, często okazywało się, że na nowo wynajdowałem koło, nie wiedząc, że pewne zagadnienia rozwiązuje się w określony sposób. Brakowało mi też spojrzenia z boku na to co robię, złapania dystansu, ucieszenie się tym co się udało i strategicznego zmierzenia się z tym co przede mną. Pamiętam rozmowy z osobami które również prowadziły biznes, i były bardziej doświadczone, jak bardzo otwierały mi nową perspektywę na bieżące zmagania.
 
-Dziś, po sprzedaży dwóch firm, oferuję innym usługi mentoringu biznesowego. Jeśli jesteś właścicielem firmy, założycielem, prezesem lub menedżerem w firmie technologicznej lub naukowej, moje spersonalizowane usługi mentorskie mogą pomóc Ci stawić czoła wyzwaniom i osiągnąć pełny potencjał.
+Dziś, po sprzedaży dwóch firm, oferuję innym usługi mentoringu biznesowego. Jeśli jesteś właścicielem firmy, założycielem, prezesem lub menedżerem w firmie technologicznej lub naukowej, mogę pomóc Ci stawić czoła wyzwaniom i osiągnąć pełny potencjał.
 
 Moje usługi mentorskie mogą pomóc Ci w następujących obszarach:
 

@@ -8,7 +8,7 @@ permalink: /en/mentoring
 
 There has never been a more intense time for me than when I was running a company (or two for a while). Each day brought new challenges: a valuable employee received an offer from a competitor, a client complained about the quality of our services, the structure of the company no longer suited the current challenges. A real rollercoaster. Every day I worked hard trying to come up with new solutions. Having no business experience, it often turned out that I was reinventing the wheel, not knowing that certain problems were solved in a certain way. I also missed looking from the side at what I was doing, catching some distance, enjoying what I had achieved and strategically facing what was ahead of me. I remember conversations with people who also ran a business and were more experienced, how much they opened a new perspective on the current struggles.
 
-Today, after selling two companies, I offer business mentoring services to others. If you are a business owner, founder, entrepreneur, executive or manager in a tech- or science-based company my personalized mentoring services can help you navigate these challenges and achieve your full potential.
+Today, after selling two companies, I offer business mentoring services to others. If you are a business owner, founder, entrepreneur, executive or manager in a tech- or science-based company I can help you navigate your challenges and achieve your full potential.
 
 My mentoring services are designed to help you in various areas, including:
 
