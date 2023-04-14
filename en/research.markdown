@@ -6,6 +6,27 @@ order: 100
 permalink: /en/research
 ---
 
+Mateusz Chiliński, __Jakub Lipiński__, Abhishek Agarwal, Yijun Ruan, Dariusz Plewczynski
+
+Preprint 2023
+
+[Enhanced performance of gene expression predictive models with protein-mediated spatial chromatin interactions](https://www.biorxiv.org/content/10.1101/2023.04.06.535849v1) [![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/2023.04.06.535849v1.full.pdf)
+
+<small>There have been multiple attempts to predict the expression of the genes based on the
+sequence, epigenetics, and various other factors. To improve those predictions, we have
+decided to investigate adding protein-specific 3D interactions that play a major role in the
+compensation of the chromatin structure in the cell nucleus. To achieve this, we have used
+the architecture of one of the state-of-the-art algorithms, ExPecto (J. Zhou et al., 2018), and
+investigated the changes in the model metrics upon adding the spatially relevant data. We
+have used ChIA-PET interactions that are mediated by cohesin (24 cell lines), CTCF (4 cell
+lines), and RNAPOL2 (4 cell lines). As the output of the study, we have developed the
+Spatial Gene Expression (SpEx) algorithm that shows statistically significant improvements
+in most cell lines.</small>
+
+[https://doi.org/10.1101/2023.04.06.535849](https://doi.org/10.1101/2023.04.06.535849)
+
+<br />
+
 Cheynna Crowley, Yuchen Yang, Yunjiang Qiu, Benxia Hu, Armen Abnousi, __Jakub Lipiński__, Dariusz Plewczyński, Di Wu, Hyejung Won, Bing Ren, Ming Hu, Yun Li,
 
 Computational and Structural Biotechnology Journal 2020, ISSN 2001-0370
