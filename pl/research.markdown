@@ -8,22 +8,13 @@ permalink: /pl/research
 
 Mateusz Chiliński, __Jakub Lipiński__, Abhishek Agarwal, Yijun Ruan, Dariusz Plewczynski
 
-Preprint 2023
+Scientific Reports volume 13, Article number: 11693 (2023)
 
-[Enhanced performance of gene expression predictive models with protein-mediated spatial chromatin interactions](https://www.biorxiv.org/content/10.1101/2023.04.06.535849v1) [![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/2023.04.06.535849v1.full.pdf)
+[Enhanced performance of gene expression predictive models with protein-mediated spatial chromatin interactions](https://www.nature.com/articles/s41598-023-38865-5) [![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/s41598-023-38865-5.pdf)
 
-<small>There have been multiple attempts to predict the expression of the genes based on the
-sequence, epigenetics, and various other factors. To improve those predictions, we have
-decided to investigate adding protein-specific 3D interactions that play a major role in the
-compensation of the chromatin structure in the cell nucleus. To achieve this, we have used
-the architecture of one of the state-of-the-art algorithms, ExPecto (J. Zhou et al., 2018), and
-investigated the changes in the model metrics upon adding the spatially relevant data. We
-have used ChIA-PET interactions that are mediated by cohesin (24 cell lines), CTCF (4 cell
-lines), and RNAPOL2 (4 cell lines). As the output of the study, we have developed the
-Spatial Gene Expression (SpEx) algorithm that shows statistically significant improvements
-in most cell lines.</small>
+<small>There have been multiple attempts to predict the expression of the genes based on the sequence, epigenetics, and various other factors. To improve those predictions, we have decided to investigate adding protein-specific 3D interactions that play a significant role in the condensation of the chromatin structure in the cell nucleus. To achieve this, we have used the architecture of one of the state-of-the-art algorithms, ExPecto, and investigated the changes in the model metrics upon adding the spatially relevant data. We have used ChIA-PET interactions that are mediated by cohesin (24 cell lines), CTCF (4 cell lines), and RNAPOL2 (4 cell lines). As the output of the study, we have developed the Spatial Gene Expression (SpEx) algorithm that shows statistically significant improvements in most cell lines. We have compared ourselves to the baseline ExPecto model, which obtained a 0.82 Spearman's rank correlation coefficient (SCC) score, and 0.85, which is reported by newer Enformer were able to obtain the average correlation score of 0.83. However, in some cases (e.g. RNAPOL2 on GM12878), our improvement reached 0.04, and in some cases (e.g. RNAPOL2 on H1), we reached an SCC of 0.86.</small>
 
-[https://doi.org/10.1101/2023.04.06.535849](https://doi.org/10.1101/2023.04.06.535849)
+[https://doi.org/10.1038/s41598-023-38865-5](https://doi.org/10.1038/s41598-023-38865-5)
 
 <br />
 
