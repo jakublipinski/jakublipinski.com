@@ -37,7 +37,7 @@ I used to work on novel approach to [nuclear fusion](ugc) with an independent la
 
 I co-founded [Apphance](apphance) which was acquired by Applause (then uTest) in 2012.
 
-I graduated from [AGH University of Science and Technology](https://www.agh.edu.pl/) (MSc in computer science) and from [IESE](https://www.iese.edu/) (Advanced Management Program).
+I graduated from [AGH University of Science and Technology](https://www.agh.edu.pl/) (MSc in computer science), from [IESE](https://www.iese.edu/) (Advanced Management Program) and [from](https://www.linkedin.com/feed/update/urn:li:activity:7155598897665474560/) [Center for Leadership](https://center-for-leadership.org/academy/overview/) (Leadership Academy for Poland).
 
 
 I was named [The New Europe 100 — changemaker in central and eastern Europe (2016)](https://www.ft.com/content/ece06f66-90a7-11e6-a72e-b428cb934b78)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/New-Europe-100-changemakers.pdf). I was finalist of the [EY Entrepreneur of the Year 2012 Poland{% include flag_pl.html %}](https://przedsiebiorcaroku.pl/poprzednie-edycje/?edition=10)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/ey-przedsiebiorca-roku.pdf) and a [finalist of the Polish programming contest 1998{% include flag_pl.html %}](https://oi.edu.pl/l/53/)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/olimpiada-informatyczna-1998.pdf).

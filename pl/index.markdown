@@ -40,7 +40,7 @@ Współtworzyłem firmę [Apphance](apphance), która została kupiona przez App
 
 Współtworzyłem pierwszy [rynek przewidywań społeczno-politycznych](/pl/pm) w Polsce.
 
-Uzyskałem dyplom magistra-inżyniera informatyki na [Akademii Górniczo Hutniczej w Krakowie](https://www.agh.edu.pl/) oraz ukończyłem Advanced Management Program na [IESE w Hiszpanii](https://www.iese.edu/).
+Uzyskałem dyplom magistra-inżyniera informatyki na [Akademii Górniczo Hutniczej w Krakowie](https://www.agh.edu.pl/), ukończyłem Advanced Management Program na [IESE w Hiszpanii](https://www.iese.edu/) i [ukończyłem](https://www.linkedin.com/feed/update/urn:li:activity:7155598897665474560/) program Leadership Academy for Poland w [Center for Leadership](https://center-for-leadership.org/academy/overview/).
 
 Zostałem uhonorowany tytułem [The New Europe 100 — changemaker in central and eastern Europe (2016)](https://www.ft.com/content/ece06f66-90a7-11e6-a72e-b428cb934b78)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/New-Europe-100-changemakers.pdf). Byłem finalistą konkursu [EY Przedsiębiorca Roku Polska w 2012](https://przedsiebiorcaroku.pl/poprzednie-edycje/?edition=10)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/ey-przedsiebiorca-roku.pdf) i [finalistą Olimpiady Informatycznej w 1998](https://oi.edu.pl/l/53/)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/olimpiada-informatyczna-1998.pdf).
 
