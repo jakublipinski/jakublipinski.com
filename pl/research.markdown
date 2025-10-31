@@ -6,6 +6,18 @@ order: 100
 permalink: /pl/research
 ---
 
+Marcus Nyström, Diederick C. Niehorster, Roy S. Hessels, Richard Andersson, Marta K. Skrok, Robert Konklewski, Patrycjusz Stremplewski, Maciej Nowakowski, __Jakub Lipiński__, Szymon Tamborski, Anna Szkulmowska, Maciej Szkulmowski & Ignace T. C. Hooge 
+
+Behavior Research Methods, Volume 57, article number 329, (2025)
+
+[Do eye trackers estimate eyeball rotation? The relationship between tracked eye image feature and estimated saccadic waveform](https://link.springer.com/article/10.3758/s13428-025-02862-5)[![Archived PDF](/assets/images/pdf.svg){: style="width:1em; display: inline; margin: 0 0 0rem;" }](/assets/pdf/s13428-025-02862-5.pdf)
+
+<small>The eyeball is not rigid and deforms during saccades. As a consequence, the saccade waveform recorded by an eye tracker may depend on which structure of the eye is used to estimate eyeball rotation. Here, we systematically describe and compare signals co-recorded from the retina, the cornea (corneal reflection, CR), the pupil, and the lens (fourth Purkinje reflection, P4) during saccades. We found that several commonly used parameters for saccade characterization differ systematically across the signals. For instance, saccades in the retinal signal had earlier onsets compared to saccades in the pupil and the P4 signals. The retinal signal had the smallest saccade amplitude and reached the peak saccade velocity earlier compared to the other signals. At the end of saccades, the retinal signal came to a stop faster than the other signals. We discuss possible explanations that may account for the relationship between the retinal signal and the other signals.<small>
+
+[https://doi.org/10.3758/s13428-025-02862-5](https://doi.org/10.3758/s13428-025-02862-5)
+
+<br />
+
 Mateusz Chiliński, __Jakub Lipiński__, Abhishek Agarwal, Yijun Ruan, Dariusz Plewczynski
 
 Scientific Reports volume 13, Article number: 11693 (2023)
