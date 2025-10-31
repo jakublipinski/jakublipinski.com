@@ -5,6 +5,7 @@ title: Badania i publikacje
 order: 100
 permalink: /pl/research
 ---
+<br />
 
 Marcus Nyström, Diederick C. Niehorster, Roy S. Hessels, Richard Andersson, Marta K. Skrok, Robert Konklewski, Patrycjusz Stremplewski, Maciej Nowakowski, __Jakub Lipiński__, Szymon Tamborski, Anna Szkulmowska, Maciej Szkulmowski & Ignace T. C. Hooge 
 
