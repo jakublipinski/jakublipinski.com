@@ -22,7 +22,7 @@ I'm a chairman at [Jagiellonian Club {% include flag_pl.html %}](https://klubjag
 
 I'm a family man with a wife and 5 children. I'm a grandson of [Wacław Lipiński](https://en.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski) and I maintain [a website dedicated to his memory{% include flag_pl.html %}](https://www.waclawlipinski.pl).
 
-In my free time, I am renovating an [old farmhouse at Warmia](https://farmia.org).
+In my free time, I take care of an [old farmhouse at Warmia](https://farmia.org/en/?utm_source=jakublipinski.com&utm_medium=referral).
 
 You can connect me on [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) or [GitHub](https://github.com/jakublipinski).
 

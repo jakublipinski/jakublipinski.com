@@ -22,7 +22,7 @@ Jestem przewodniczącym Rady i członkiem think-tanku [Klub Jagielloński](https
 
 Jestem typem rodzinnym. Mam żonę i pięcioro dzieci. Jestem wnukiem [Wacława Lipińskiego](https://pl.wikipedia.org/wiki/Wac%C5%82aw_Lipi%C5%84ski_(polski_historyk_i_oficer)) i prowadzę [poświęconą mu stronę](https://www.waclawlipinski.pl).
 
-W wolnym czasie, remontuję [siedlisko na Warmii](https://farmia.org).
+W wolnym czasie opiekuję się [siedliskiem na Warmii](https://farmia.org/pl/?utm_source=jakublipinski.com&utm_medium=referral).
 
 Znajdziesz mnie na [LinkedIn](https://www.linkedin.com/in/jakublipinski/), [Twitter](https://twitter.com/jakublipinski) i [GitHub](https://github.com/jakublipinski).
 
