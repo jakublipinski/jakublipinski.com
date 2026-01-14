@@ -12,7 +12,7 @@ My name is Jakub Lipiński. I'm a software engineer turned entrepreneur, investo
 
 ## Present
 
-I [mentor entrepreneurs](mentoring) in building companies and assisting them in overcoming daily challenges.
+I [mentor entrepreneurs](mentoring) in building, scaling and selling their companies. I run [the Deep Work Workshop](https://warsztat.schoolofexperiences.org) — a program for leaders combining carpentry, IFS, and men's group work.
 
 I'm a co-founder of [Inoko Vision](https://inoko.vision).
 

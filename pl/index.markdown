@@ -12,7 +12,7 @@ Nazywam się Jakub Lipiński. Jestem programistą, który stał się przedsiębi
 
 ## Teraz
 
-[Świadczę usługi mentoringu](mentoring) dla przedsiębiorców budujących firmy i pomagam w rozwiązywaniu ich codziennych wyzwań. 
+Mentoruję przedsiębiorców [w budowaniu, skalowaniu i sprzedaży firm](mentoring). Prowadzę [Warsztat Pracy Głębokiej](https://warsztat.schoolofexperiences.org) — program dla liderów łączący ciesielstwo, IFS i pracę w męskiej grupie.
 
 Jestem współzałożycielem [Inoko Vision](https://inoko.vision).
 
