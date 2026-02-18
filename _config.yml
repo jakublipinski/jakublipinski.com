@@ -9,8 +9,8 @@ github_username:  jakublipinski
 
 markdown: kramdown
 
-#theme: "ed."
-remote_theme: minicomp/ed
+theme: "ed."
+#remote_theme: minicomp/ed
 
 plugins:
   - jekyll-sitemap
