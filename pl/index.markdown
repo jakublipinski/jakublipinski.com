@@ -16,6 +16,8 @@ Mentoruję przedsiębiorców [w budowaniu, skalowaniu i sprzedaży firm](mentori
 
 Jestem współzałożycielem [Inoko Vision](https://inoko.vision).
 
+Rozwijam aplikację [Silent Bell](https://silentbell.app/?campaign=jakublipinski.com) na Apple Watch.
+
 Jestem doradcą inwestycyjnym w funduszu [Expeditions Fund](https://expeditionsfund.com/).
 
 Byłem przewodniczącym Rady, jestem członkiem think-tanku [Klub Jagielloński](https://klubjagiellonski.pl) i czasem [publikuję na jego łamach](/pl/kj). Byłem również pomysłodawcą [aplikacji Pola](https://www.pola-app.pl).

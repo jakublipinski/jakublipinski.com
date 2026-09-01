@@ -16,6 +16,8 @@ I [mentor entrepreneurs](mentoring) in building, scaling and selling their compa
 
 I'm a co-founder of [Inoko Vision](https://inoko.vision).
 
+I have published an Apple Watch app called [Silent Bell](https://silentbell.app/?campaign=jakublipinski.com).
+
 I'm a Venture Advisor at [Expeditions Fund](https://expeditionsfund.com/).
 
 I was a chairman and I am a member at [Jagiellonian Club {% include flag_pl.html %}](https://klubjagiellonski.pl) think-tank. I occasionally [publish articles{% include flag_pl.html %}](/pl/kj) there. One of our projects includes building the [Pola mobile app{% include flag_pl.html %}](https://www.pola-app.pl).
